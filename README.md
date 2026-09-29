@@ -1,7 +1,6 @@
-Hi, I'm Kashish - SY BCA @ SPPU
+Hi, I'm Kashish Shaikh 👋
 
-Learning C, C++ and Data Structures
-
-My code: C--basics and sy-BCA-sem-3
-
-Goal: Internship after 4th Sem
+🎓 BCA Student @ SPPU, Pune | Passionate about Coding
+💻 I love building with C, C++ and Data Structures
+📂 My Work: Check my repositories for my learning journey
+🚀 Aspiring Software Developer | Open to Learning & Internships
